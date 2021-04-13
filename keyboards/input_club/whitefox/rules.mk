@@ -22,6 +22,7 @@ COMMAND_ENABLE = yes        # Commands for debug and configuration
 NKRO_ENABLE = yes           # Enable N-Key Rollover
 RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 AUDIO_ENABLE = no           # Audio output
+TAP_DANCE_ENABLE = yes
 
 LED_MATRIX_ENABLE = yes
 LED_MATRIX_DRIVER = IS31FL3731
